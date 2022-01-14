@@ -1,0 +1,3 @@
+numero=a42357
+amigos=a42333,a42355,a42361
+fim
